@@ -4,14 +4,6 @@ Backend de la tienda online PokéTienda Pearl para la Evaluación Parcial 3 de D
 
 Frontend (React): https://github.com/GabFloresLuna/ProyectoPkmnPearlShop
 
-## Equipo
-
-| Integrante | Microservicio |
-|---|---|
-| Gabriel Flores | ms-productos |
-| Daniel Rangel | ms-usuarios |
-| Hernaldo Silva | ms-ventas |
-
 ## Arquitectura
 
 | Microservicio | Responsabilidad | Puerto | Base de datos | Tablas |
